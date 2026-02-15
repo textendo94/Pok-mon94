@@ -1,0 +1,7 @@
+pokévalue/
+│
+├─ index.html        ← Hoofdinterface
+├─ style.css         ← Donkere modus + layout
+├─ app.js            ← Logica: scanner, collectie, filters, prijzen
+├─ assets/           ← Eventuele afbeeldingen/icons
+└─ README.md         ← Instructies voor deploy
